@@ -1,7 +1,7 @@
 # Graduation-Project
 Napta project is our graduation project in FCI Luxor university by
 _______________
-### :hourglass_flowing_sand:*Project Mentors* 
+### :hourglass_flowing_sand:*Project supervisor* 
 - Dr: Mohammed Atta Khafagy
 _______________
 ### :dart:*Submitted By*
